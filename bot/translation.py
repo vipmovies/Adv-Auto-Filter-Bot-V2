@@ -6,7 +6,7 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
 
-<i>I'm a simple bot for autofilters group and maintained by</i> <a herf="https://t.me/Soory_Bk"><i>This Person</i></a>"""    
+<i>I'm a simple bot for autofilters group and maintained by</i> <a href="https://t.me/Soory_Bk"><i>This Person</i></a>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
