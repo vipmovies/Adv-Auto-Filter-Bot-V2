@@ -89,8 +89,8 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('⚜️Channel⚜️', url='https://t.me/joinchat/XrhPKlw2vE1jYWNl'),
-        InlineKeyboardButton('⚜️Group⚜️', url ='https://t.me/joinchat/QtoSkHem8Ss0OGU1')
+        InlineKeyboardButton('⚜️Channel⚜️', url='https://t.me/joinchat/j1OWJOoXyXs1ZmZl'),
+        InlineKeyboardButton('⚜️Group⚜️', url ='https://t.me/joinchat/T4oAkqsgqfcIKaYR')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
